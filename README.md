@@ -8,5 +8,5 @@ The application also gives a dependency table which shows pivot data of dependen
 
 ## Application 
 
-The hosted Applcation can be found in [Maintainer](https://github.com/Radhika-0812/maintainer.git)
+The hosted Applcation can be found in [Maintainer](https://github.com/Radhika-0812/maintainer/#/)
 
