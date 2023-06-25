@@ -2,7 +2,7 @@
   "name": "maintainer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://radhika-0812.github.io/maintainer/",
+  "homepage": "https://radhika-0812.github.io/maintainer/#/",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
     "@material-ui/icons": "^4.9.1",
